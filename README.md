@@ -8,10 +8,10 @@
 > :memo: **Note:** Best expirience with **Obsidian MD**:
 
 ### **Obsidian Md** Graph Notes example:
-<img src="Nutshell.Information\Resources\Puctures\obsidian_md_notes_graph.png" width="500" height="500">
+<img src="Nutshell.Information\Resources\Pictures\obsidian_md_notes_graph.png" width="500" height="500">
 
 ### **Obsidian Md** Note of **JWT** whith theme **Things** example:
-<img src="Nutshell.Information\Resources\Puctures\Things_Theme_obsidian_md_notes.png" width="500" height="500">
+<img src="Nutshell.Information\Resources\Pictures\Things_Theme_obsidian_md_notes.png" width="500" height="500">
 
 
 ### Links:
